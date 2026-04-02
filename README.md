@@ -56,7 +56,7 @@ PID-based speed and position control with multi-protocol sensor and actuator com
 
 ---
 
-### Sound Source Localization (TDOA) — VHDL on FPGA
+### Sound Source Localization (TDOA) — VHDL on FPGA (https://github.com/TDOA-SOUND-LOCALIZATION)
 > 2D sound localization using Time Difference of Arrival on FPGA
 
 Real-time signal processing pipeline on FPGA, UART link to ESP32, and MQTT data forwarding for host-side processing.
